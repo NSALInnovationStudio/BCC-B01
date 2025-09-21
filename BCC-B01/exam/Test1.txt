@@ -1,0 +1,26 @@
+Theory Based Question.
+
+1. what is computer?
+2. What is operating system?
+3. what is the difference between hardware and software?
+4. what is crypto currency?
+5. What is server and how does server works?
+6. what is AGI?
+7. What is the difference between HDD and SSD?
+8. How does computer process data?
+9. Write any 3 major components of a hardware?
+10. Write any 3 social media apps which you use in our daily life?
+11. Who the father of modern computer?
+12. What is Hacker? Also explain about black hat and white hat hacker.
+
+Story Based Question
+
+1. You want to make sure your computer is safe from viruses. What steps would you take to protect your computer? Mention at least three things you would do.
+2. Your friend wants to install a new game, but there’s not enough space on the computer. What can you do to free up some space?
+3. A company wants to store customer data safely. Should they use a local server or a cloud server?
+
+Particle based question
+1. How to install windows on computer?
+2. Create a new folder named 'School Work' on your desktop. Then move any file from your computer into that folder.
+3. Change the desktop background of your computer to any picture of your choice.
+4. Connect a USB drive to the computer, copy any file from your desktop, and paste it into the USB drive.
